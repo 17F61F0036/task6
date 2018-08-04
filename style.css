@@ -42,8 +42,8 @@ header{
   text-align: center;
   padding: 1%;
   box-shadow: 3px 3px 3px #ddd;
-  /* border: 1px solid #ddd;
-  margin:1%; */
+  border: 1px solid #fff;
+  margin:1%;
 }
 img{
   width:200px;
@@ -93,7 +93,7 @@ h4{
     justify-content:center;
   }
   .parent>div{
-    width:48%;
+    width:45%;
     text-align: center;
     padding: 1%;
     box-shadow: 3px 3px 3px #ddd;
